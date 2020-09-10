@@ -1,4 +1,14 @@
-### Hi there 👋
+### Olá! Tudo bem? 👋
+
+Meu nome é Felipe Marciano e sou Front-end Developer.  
+O que isso quer dizer? Que meu foco é entregar valor para o usuário codificando interfaces. 
+Em outras palavras, garantir a melhor usabilidade e fidelidade do layout em parceria com Designers e UXs.  
+E, além disso, definir APIs e arquiteturas de projetos junto à backends, fazendo a ponte entre programação e design.
+
+Por falar em design, sou Designer Gráfico de formação e já passei um tempo **[desenhando interfaces](https://www.behance.net/felipexperto/)** 👀  
+Atualmente estou trabalhando na **[VAGAS Tecnologia](https://vagas.com.br)** localizada em São Paulo, no entanto, se você quiser saber a história completa pode **[visitar meu LinkedIn](https://www.linkedin.com/in/felipexperto/)** 😉
+
+
 
 <!--
 **felipexperto/felipexperto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
