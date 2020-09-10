@@ -1,3 +1,5 @@
+![felipexperto-logo](github-felipexperto-logo.png)
+
 ### Olá! Tudo bem? 👋
 
 Meu nome é Felipe Marciano e sou Front-end Developer.  
