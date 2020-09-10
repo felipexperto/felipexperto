@@ -1,4 +1,4 @@
-![felipexperto-logo](github-felipexperto-logo.png)
+![felipexperto-logo](https://github.com/felipexperto/felipexperto/blob/master/github-felipexperto-logo.png?raw=true)
 
 ### Olá! Tudo bem? 👋
 
