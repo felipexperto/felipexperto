@@ -10,7 +10,9 @@ E, além disso, definir APIs e arquiteturas de projetos junto à backends, fazen
 Por falar em design, sou Designer Gráfico de formação e já passei um tempo **[desenhando interfaces](https://www.behance.net/felipexperto/)** 👀  
 Atualmente estou trabalhando na **[VAGAS Tecnologia](https://vagas.com.br)** localizada em São Paulo, no entanto, se você quiser saber a história completa pode **[visitar meu LinkedIn](https://www.linkedin.com/in/felipexperto/)** 😉
 
-
+### Novidades ✏️
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **felipexperto/felipexperto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
