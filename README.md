@@ -12,9 +12,9 @@ Atualmente estou trabalhando na **[VAGAS Tecnologia](https://vagas.com.br)** loc
 
 ### Novidades ✏️
 <!-- BLOG:START -->
-- [Iniciando testes automatizados com Create React App](https://www.fx.dev.br/iniciando-testes-automatizados-create-react-app/)
+- [Iniciando com testes unitários no Create React App](https://www.fx.dev.br/iniciando-testes-automatizados-create-react-app/)
 - [Git - O início e alguns macetes](https://www.fx.dev.br/git-inicio-macetes/)
-- [Por que React?](https://www.fx.dev.br/por-que-react/)
+- [Por que me interessei pelo React?](https://www.fx.dev.br/por-que-react/)
 - [Meu 2019 como desenvolvedor](https://www.fx.dev.br/meu-2019-como-desenvolvedor/)
 - [Time To First Byte](https://www.fx.dev.br/time-to-first-byte/)
 <!-- BLOG:END -->
