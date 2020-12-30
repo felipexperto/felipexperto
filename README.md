@@ -12,11 +12,11 @@ Atualmente estou trabalhando na **[VAGAS Tecnologia](https://vagas.com.br)** loc
 
 ### Novidades ✏️
 <!-- BLOG:START -->
+- [Docker cheatsheet (comandos e macetes)](https://www.fx.dev.br/docker-cheatsheet/)
+- [Docker: Guia de sobrevivência - Parte 2](https://www.fx.dev.br/docker-guia-de-sobrevivencia-parte-2/)
+- [Docker: Guia de sobrevivência - Parte 1](https://www.fx.dev.br/docker-guia-de-sobrevivencia-parte-1/)
+- [Docker: Preciso mesmo disso?](https://www.fx.dev.br/docker-quando-utilizar/)
 - [Iniciando com testes unitários no Create React App](https://www.fx.dev.br/iniciando-testes-automatizados-create-react-app/)
-- [Git - O início e alguns macetes](https://www.fx.dev.br/git-inicio-macetes/)
-- [Por que me interessei pelo React?](https://www.fx.dev.br/por-que-react/)
-- [Meu 2019 como desenvolvedor](https://www.fx.dev.br/meu-2019-como-desenvolvedor/)
-- [Time To First Byte](https://www.fx.dev.br/time-to-first-byte/)
 <!-- BLOG:END -->
 
 <!--
