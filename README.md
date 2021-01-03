@@ -12,11 +12,11 @@ Atualmente estou trabalhando na **[VAGAS Tecnologia](https://vagas.com.br)** loc
 
 ### Novidades ✏️
 <!-- BLOG:START -->
+- [Meu 2020 como pessoa desenvolvedora](https://www.fx.dev.br/meu-2020-como-pessoa-desenvolvedora/)
 - [Docker cheatsheet (comandos e macetes)](https://www.fx.dev.br/docker-cheatsheet/)
 - [Docker: Guia de sobrevivência - Parte 2](https://www.fx.dev.br/docker-guia-de-sobrevivencia-parte-2/)
 - [Docker: Guia de sobrevivência - Parte 1](https://www.fx.dev.br/docker-guia-de-sobrevivencia-parte-1/)
 - [Docker: Preciso mesmo disso?](https://www.fx.dev.br/docker-quando-utilizar/)
-- [Iniciando com testes unitários no Create React App](https://www.fx.dev.br/iniciando-testes-automatizados-create-react-app/)
 <!-- BLOG:END -->
 
 <!--
