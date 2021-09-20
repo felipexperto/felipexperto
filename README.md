@@ -12,11 +12,11 @@ Atualmente estou trabalhando na **[VAGAS Tecnologia](https://vagas.com.br)** loc
 
 ### Novidades ✏️
 <!-- BLOG:START -->
-- [Google Tag Manager - Parte 3: Criando um evento personalizado datalayer.push](https://www.fx.dev.br/gtm-parte-3-criando-evento-personalizado-datalayer-push/)
-- [Google Tag Manager - Parte 2: Conceitos](https://www.fx.dev.br/gtm-parte-2-conceitos/)
-- [Google Tag Manager - Parte 1: O que é e como instalar](https://www.fx.dev.br/gtm-parte-1-o-que-e-como-instalar/)
-- [Frontend Júnior, Pleno ou Sênior?](https://www.fx.dev.br/frontend-junior-pleno-senior/)
-- [Meu 2020 como pessoa desenvolvedora](https://www.fx.dev.br/meu-2020-como-pessoa-desenvolvedora/)
+- [Axios](https://www.fx.dev.br/wip-axios/)
+- [Controle de estado no React (State Management)](https://www.fx.dev.br/wip-controle-de-estado-react/)
+- [Gatsby Overview](https://www.fx.dev.br/wip-gatsby-overview/)
+- [Jest tips](https://www.fx.dev.br/wip-jest-tips/)
+- [Server-side Rendering (SSR)](https://www.fx.dev.br/wip-hacks-simples-no-frontend/)
 <!-- BLOG:END -->
 
 <!--
