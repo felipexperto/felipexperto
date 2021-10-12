@@ -12,11 +12,11 @@ Atualmente estou trabalhando na **[VAGAS Tecnologia](https://vagas.com.br)** loc
 
 ### Novidades ✏️
 <!-- BLOG:START -->
-- [Freela: Checklist de informações para iniciar bem um projeto](https://www.fx.dev.br/freela-checklist-informacoes-para-iniciar-bem-um-projeto/)
 - [UX Design para desenvolvedores - Falando um pouco sobre o conceito e a atuação](https://www.fx.dev.br/ux-design-para-desenvolvedores/)
 - [Git cheatsheet (comandos e macetes)](https://www.fx.dev.br/git-cheatsheet/)
 - [Google Tag Manager - Parte 3: Criando um evento personalizado datalayer.push](https://www.fx.dev.br/gtm-parte-3-criando-evento-personalizado-datalayer-push/)
 - [Google Tag Manager - Parte 2: Conceitos](https://www.fx.dev.br/gtm-parte-2-conceitos/)
+- [Google Tag Manager - Parte 1: O que é e como instalar](https://www.fx.dev.br/gtm-parte-1-o-que-e-como-instalar/)
 <!-- BLOG:END -->
 
 <!--
