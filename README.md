@@ -16,7 +16,7 @@ Atualmente estou trabalhando na **[VAGAS Tecnologia](https://vagas.com.br)** loc
 - [Como evitar conversões indesejadas em Javascript](https://www.fx.dev.br/como-evitar-conversoes-indesejadas-em-javascript/)
 - [Freela: Checklist de informações para iniciar bem um projeto](https://www.fx.dev.br/freela-checklist-informacoes-para-iniciar-bem-um-projeto/)
 - [UX Design para desenvolvedores - Falando um pouco sobre o conceito e a atuação](https://www.fx.dev.br/ux-design-para-desenvolvedores/)
-- [Git cheatsheet (comandos e macetes)](https://www.fx.dev.br/git-cheatsheet/)
+- [Git cheatsheet &lpar;comandos e macetes&rpar;](https://www.fx.dev.br/git-cheatsheet/)
 <!-- BLOG:END -->
 
 <!--
