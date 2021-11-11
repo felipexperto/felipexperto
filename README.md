@@ -12,11 +12,11 @@ Atualmente estou trabalhando na **[VAGAS Tecnologia](https://vagas.com.br)** loc
 
 ### Novidades ✏️
 <!-- BLOG:START -->
+- [Iniciando com regex no Javascript](https://www.fx.dev.br/iniciando-com-regex-no-javascript/)
 - [React Testing Library: Mockando Next Router.push](https://www.fx.dev.br/react-testing-library-mock-next-router-push/)
 - [Como evitar conversões indesejadas em Javascript](https://www.fx.dev.br/como-evitar-conversoes-indesejadas-em-javascript/)
 - [Freela: Checklist de informações para iniciar bem um projeto](https://www.fx.dev.br/freela-checklist-informacoes-para-iniciar-bem-um-projeto/)
 - [UX Design para desenvolvedores - Falando um pouco sobre o conceito e a atuação](https://www.fx.dev.br/ux-design-para-desenvolvedores/)
-- [Git cheatsheet &lpar;comandos e macetes&rpar;](https://www.fx.dev.br/git-cheatsheet/)
 <!-- BLOG:END -->
 
 <!--
