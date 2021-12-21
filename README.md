@@ -12,11 +12,11 @@ Atualmente estou trabalhando na **[Luizalabs](https://medium.com/luizalabs)** lo
 
 ### Novidades ✏️
 <!-- BLOG:START -->
+- [Javascript Cheatsheet](https://www.fx.dev.br/javascript-cheatsheet/)
 - [Iniciando com regex no Javascript](https://www.fx.dev.br/iniciando-com-regex-no-javascript/)
 - [React Testing Library: Mockando Next Router.push](https://www.fx.dev.br/react-testing-library-mock-next-router-push/)
 - [Como evitar conversões indesejadas em Javascript](https://www.fx.dev.br/como-evitar-conversoes-indesejadas-em-javascript/)
 - [Freela: Checklist de informações para iniciar bem um projeto](https://www.fx.dev.br/freela-checklist-informacoes-para-iniciar-bem-um-projeto/)
-- [UX Design para desenvolvedores - Falando um pouco sobre o conceito e a atuação](https://www.fx.dev.br/ux-design-para-desenvolvedores/)
 <!-- BLOG:END -->
 
 <!--
