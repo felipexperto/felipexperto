@@ -8,7 +8,7 @@ Em outras palavras, garantir a melhor usabilidade e fidelidade do layout em parc
 E, além disso, definir APIs e arquiteturas de projetos junto à backends, fazendo a ponte entre programação e design.
 
 Por falar em design, sou Designer Gráfico de formação e já passei um tempo **[desenhando interfaces](https://www.behance.net/felipexperto/)** 👀  
-Atualmente estou trabalhando na **[VAGAS Tecnologia](https://vagas.com.br)** localizada em São Paulo, no entanto, se você quiser saber a história completa pode **[visitar meu LinkedIn](https://www.linkedin.com/in/felipexperto/)** 😉
+Atualmente estou trabalhando na **[Luizalabs](https://medium.com/luizalabs)** localizada em São Paulo, no entanto, se você quiser saber a história completa pode **[visitar meu LinkedIn](https://www.linkedin.com/in/felipexperto/)** 😉
 
 ### Novidades ✏️
 <!-- BLOG:START -->
