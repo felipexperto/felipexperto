@@ -12,11 +12,11 @@ Atualmente estou trabalhando na **[Luizalabs](https://medium.com/luizalabs)** lo
 
 ### Novidades ✏️
 <!-- BLOG:START -->
+- [Git remove large files](https://www.fx.dev.br/git-remove-large-files/)
+- [React Testing Library: Mockando Axios Get individualmente por teste](https://www.fx.dev.br/react-testing-library-mock-axios-get/)
 - [Acessibilidade no Frontend - Introdução](https://www.fx.dev.br/acessibilidade-no-front-introducao/)
 - [Javascript Cheatsheet](https://www.fx.dev.br/javascript-cheatsheet/)
 - [Iniciando com regex no Javascript](https://www.fx.dev.br/iniciando-com-regex-no-javascript/)
-- [React Testing Library: Mockando Next Router.push](https://www.fx.dev.br/react-testing-library-mock-next-router-push/)
-- [Como evitar conversões indesejadas em Javascript](https://www.fx.dev.br/como-evitar-conversoes-indesejadas-em-javascript/)
 <!-- BLOG:END -->
 
 <!--
