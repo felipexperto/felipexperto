@@ -12,11 +12,11 @@ Atualmente estou trabalhando na **[Luizalabs](https://medium.com/luizalabs)** lo
 
 ### Novidades ✏️
 <!-- BLOG:START -->
+- [Testando componente lazy load React Suspense com Jest, React Testing Library e Typescript](https://www.fx.dev.br/jest-test-lazy-load-react-typescript-component/)
+- [Mockando window.location usando Jest + React Testing Library + Typescript](https://www.fx.dev.br/mock-window-location-jest-rtl-typescript/)
 - [Git remove large files](https://www.fx.dev.br/git-remove-large-files/)
 - [React Testing Library: Mockando Axios Get individualmente por teste](https://www.fx.dev.br/react-testing-library-mock-axios-get/)
 - [Acessibilidade no Frontend - Introdução](https://www.fx.dev.br/acessibilidade-no-front-introducao/)
-- [Javascript Cheatsheet](https://www.fx.dev.br/javascript-cheatsheet/)
-- [Iniciando com regex no Javascript](https://www.fx.dev.br/iniciando-com-regex-no-javascript/)
 <!-- BLOG:END -->
 
 <!--
