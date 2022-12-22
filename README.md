@@ -12,11 +12,11 @@ Atualmente estou trabalhando na **[Luizalabs](https://medium.com/luizalabs)** lo
 
 ### Novidades ✏️
 <!-- BLOG:START -->
+- [Métricas de performance percebida no frontend com New Relic](https://www.fx.dev.br/new-relic-metricas-performance-percebida/)
+- [New Relic - Introdução e conceitos básicos](https://www.fx.dev.br/new-relic-introducao/)
 - [Redis Cheatsheet](https://www.fx.dev.br/redis-cheatsheet/)
 - [Redis - Primeiros Passos](https://www.fx.dev.br/redis-primeiros-passos/)
 - [Testando componente lazy load React Suspense com Jest, React Testing Library e Typescript](https://www.fx.dev.br/jest-test-lazy-load-react-typescript-component/)
-- [Mockando window.location usando Jest + React Testing Library + Typescript](https://www.fx.dev.br/mock-window-location-jest-rtl-typescript/)
-- [Git remove large files](https://www.fx.dev.br/git-remove-large-files/)
 <!-- BLOG:END -->
 
 <!--
