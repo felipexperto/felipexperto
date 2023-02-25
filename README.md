@@ -12,11 +12,11 @@ Atualmente estou trabalhando na **[Luizalabs](https://medium.com/luizalabs)** lo
 
 ### Novidades ✏️
 <!-- BLOG:START -->
+- [A eficiência de Jest snapshot tests no frontend](https://www.fx.dev.br/eficiencia-jest-snapshot-tests-frontend/)
 - [O que é React e conceitos básicos](https://www.fx.dev.br/o-que-e-react/)
 - [useScrollLock hook com testes de unidade](https://www.fx.dev.br/mock-window-location-jest-rtl-typescript copy/)
 - [Como pensar ou escolher uma arquitetura de projeto](https://www.fx.dev.br/como-pensar-arquitetura-de-projeto/)
 - [Métricas de performance percebida no frontend com New Relic](https://www.fx.dev.br/new-relic-metricas-performance-percebida/)
-- [New Relic - Introdução e conceitos básicos](https://www.fx.dev.br/new-relic-introducao/)
 <!-- BLOG:END -->
 
 <!--
