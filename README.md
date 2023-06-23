@@ -12,11 +12,11 @@ Atualmente estou trabalhando na **[Luizalabs](https://medium.com/luizalabs)** lo
 
 ### Novidades ✏️
 <!-- BLOG:START -->
+- [OpenTelemetry com ExpressJS](https://www.fx.dev.br/opentelemetry-com-expressjs/)
 - [Tipografia pode melhorar a experiência do usuário?](https://www.fx.dev.br/tipografia-pode-melhorar-a-experiencia-de-usuario/)
 - [A eficiência de Jest snapshot tests no frontend](https://www.fx.dev.br/eficiencia-jest-snapshot-tests-frontend/)
 - [O que é React e conceitos básicos](https://www.fx.dev.br/o-que-e-react/)
 - [useScrollLock hook com testes de unidade](https://www.fx.dev.br/mock-window-location-jest-rtl-typescript copy/)
-- [Como pensar ou escolher uma arquitetura de projeto](https://www.fx.dev.br/como-pensar-arquitetura-de-projeto/)
 <!-- BLOG:END -->
 
 <!--
