@@ -16,7 +16,7 @@ Atualmente estou trabalhando na **[Luizalabs](https://medium.com/luizalabs)** lo
 - [Tipografia pode melhorar a experiência do usuário?](https://www.fx.dev.br/tipografia-pode-melhorar-a-experiencia-de-usuario/)
 - [A eficiência de Jest snapshot tests no frontend](https://www.fx.dev.br/eficiencia-jest-snapshot-tests-frontend/)
 - [O que é React e conceitos básicos](https://www.fx.dev.br/o-que-e-react/)
-- [useScrollLock hook com testes de unidade](https://www.fx.dev.br/mock-window-location-jest-rtl-typescript copy/)
+- [useScrollLock hook com testes de unidade](https://www.fx.dev.br/use-scroll-lock-hook-com-testes-de-unidade/)
 <!-- BLOG:END -->
 
 <!--
