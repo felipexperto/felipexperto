@@ -12,11 +12,11 @@ Atualmente estou trabalhando na **[Luizalabs](https://medium.com/luizalabs)** lo
 
 ### Novidades ✏️
 <!-- BLOG:START -->
+- [Configurando Cypress com Jest em app NextJS](https://www.fx.dev.br/configurando-cypress-com-jest-em-app-nextjs/)
 - [Typescript - Avançando nos estudos](https://www.fx.dev.br/typescript-avancando-nos-estudos/)
 - [Typescript pra quem sabe Javascript](https://www.fx.dev.br/typescript-pra-quem-sabe-javascript/)
 - [Typescript - Introdução](https://www.fx.dev.br/typescript-introducao/)
 - [OpenTelemetry com ExpressJS](https://www.fx.dev.br/opentelemetry-com-expressjs/)
-- [Tipografia pode melhorar a experiência do usuário?](https://www.fx.dev.br/tipografia-pode-melhorar-a-experiencia-de-usuario/)
 <!-- BLOG:END -->
 
 <!--
