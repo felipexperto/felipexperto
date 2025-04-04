@@ -12,11 +12,11 @@ Atualmente estou trabalhando na **[Luizalabs](https://medium.com/luizalabs)** lo
 
 ### Novidades ✏️
 <!-- BLOG:START -->
+- [TypeError: &lpar;0 , _config.default&rpar; is not a function no Jest](https://www.fx.dev.br/typerror-config-default-is-not-a-function-jest-mock/)
 - [AI: Utilizando inteligência artificial no dia a dia](https://www.fx.dev.br/ai-utilizando-inteligencia-artificial-no-dia-dia/)
 - [Configurando Cypress com Jest em app NextJS](https://www.fx.dev.br/configurando-cypress-com-jest-em-app-nextjs/)
 - [Typescript - Avançando nos estudos](https://www.fx.dev.br/typescript-avancando-nos-estudos/)
 - [Typescript pra quem sabe Javascript](https://www.fx.dev.br/typescript-pra-quem-sabe-javascript/)
-- [Typescript - Introdução](https://www.fx.dev.br/typescript-introducao/)
 <!-- BLOG:END -->
 
 <!--
