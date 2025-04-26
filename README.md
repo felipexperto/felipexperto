@@ -12,11 +12,11 @@ Atualmente estou trabalhando na **[Luizalabs](https://medium.com/luizalabs)** lo
 
 ### Novidades ✏️
 <!-- BLOG:START -->
+- [Docker - Reduzindo tamanho de imagem Alpine](https://www.fx.dev.br/docker-nextjs-reduzindo-tamanho-imagem-alpine/)
+- [Docker - Estudo para diminuir tamanho da imagem de uma app NextJS](https://www.fx.dev.br/docker-estudo-diminuindo-tamanho-da-imagem-nextjs/)
+- [Chrome: Ignorar CORS e HTTPS em Ambiente Local](https://www.fx.dev.br/chrome-ignorar-cors-e-https-em-ambiente-local/)
 - [TypeError: &lpar;0 , _config.default&rpar; is not a function no Jest](https://www.fx.dev.br/typerror-config-default-is-not-a-function-jest-mock/)
 - [AI: Utilizando inteligência artificial no dia a dia](https://www.fx.dev.br/ai-utilizando-inteligencia-artificial-no-dia-dia/)
-- [Configurando Cypress com Jest em app NextJS](https://www.fx.dev.br/configurando-cypress-com-jest-em-app-nextjs/)
-- [Typescript - Avançando nos estudos](https://www.fx.dev.br/typescript-avancando-nos-estudos/)
-- [Typescript pra quem sabe Javascript](https://www.fx.dev.br/typescript-pra-quem-sabe-javascript/)
 <!-- BLOG:END -->
 
 <!--
