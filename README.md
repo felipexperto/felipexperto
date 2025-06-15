@@ -12,11 +12,11 @@ Atualmente estou trabalhando na **[Luizalabs](https://medium.com/luizalabs)** lo
 
 ### Novidades ✏️
 <!-- BLOG:START -->
+- [useReducer - Gerenciando estado no React](https://www.fx.dev.br/usereducer-gerenciando-estado/)
+- [Google Sign in para Web com FedCM API - Caso de implementação](https://www.fx.dev.br/google-sign-in-fedcm-api-estudo/)
 - [Docker - Reduzindo tamanho de imagem Alpine](https://www.fx.dev.br/docker-nextjs-reduzindo-tamanho-imagem-alpine/)
 - [Docker - Estudo para diminuir tamanho da imagem de uma app NextJS](https://www.fx.dev.br/docker-estudo-diminuindo-tamanho-da-imagem-nextjs/)
 - [Chrome: Ignorar CORS e HTTPS em Ambiente Local](https://www.fx.dev.br/chrome-ignorar-cors-e-https-em-ambiente-local/)
-- [TypeError: &lpar;0 , _config.default&rpar; is not a function no Jest](https://www.fx.dev.br/typerror-config-default-is-not-a-function-jest-mock/)
-- [AI: Utilizando inteligência artificial no dia a dia](https://www.fx.dev.br/ai-utilizando-inteligencia-artificial-no-dia-dia/)
 <!-- BLOG:END -->
 
 <!--
