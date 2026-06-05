@@ -12,11 +12,11 @@ Atualmente estou trabalhando na **[Luizalabs](https://medium.com/luizalabs)** lo
 
 ### Novidades ✏️
 <!-- BLOG:START -->
+- [IA cobrando alto, e agora? Guia de sobrevivência](https://www.fx.dev.br/ia-cobrando-alto-e-agora/)
+- [isEmpty - Um util bem útil](https://www.fx.dev.br/isempty-util/)
 - [useReducer - Gerenciando estado no React](https://www.fx.dev.br/usereducer-gerenciando-estado/)
 - [Google Sign in para Web com FedCM API - Caso de implementação](https://www.fx.dev.br/google-sign-in-fedcm-api-estudo/)
 - [Docker - Reduzindo tamanho de imagem Alpine](https://www.fx.dev.br/docker-nextjs-reduzindo-tamanho-imagem-alpine/)
-- [Docker - Estudo para diminuir tamanho da imagem de uma app NextJS](https://www.fx.dev.br/docker-estudo-diminuindo-tamanho-da-imagem-nextjs/)
-- [Chrome: Ignorar CORS e HTTPS em Ambiente Local](https://www.fx.dev.br/chrome-ignorar-cors-e-https-em-ambiente-local/)
 <!-- BLOG:END -->
 
 <!--
